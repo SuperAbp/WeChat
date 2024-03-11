@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <RootNamespace>SuperAbp.WeChat.Pay.H5</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperAbp.WeChat.Pay.Abstractions\SuperAbp.WeChat.Pay.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
